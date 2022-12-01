@@ -1,4 +1,4 @@
-# Small task 6 - Calculator
+# Small task 5 - Calculator
 
 ![](coding.png)
 
